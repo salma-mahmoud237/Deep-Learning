@@ -1,7 +1,6 @@
 # Deep-Learning
 
 Project: 
-
 https://colab.research.google.com/drive/1EUZsQU_amKTA9pRWw8dv9f5Ir0AeaPy8?usp=sharing
 
 dataset link: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
